@@ -1,4 +1,5 @@
-![banner](https://github.com/iamhitya/Hello/raw/main/.github/hello-banner.png)
+<img src=".github/hello-banner.png">
+
 # How To Say "Hello" In Different Languages
 
 | Sr. | Language | Formal | Informal |
